@@ -1,0 +1,109 @@
+#myvideo {
+	margin-top:10px;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+}
+
+body{
+background-color:lightblue;}
+}
+.back{
+	height:100%;
+	width:100%;
+}
+.sidebar{
+	position: fixed;
+    top:0;
+    background: rgba(0, 0, 0, 0.5);
+   width:100%;
+    padding: 40px;
+}
+nav{
+	font-size:1.5em;
+	text-align:center;
+	cursor:pointer;
+}
+#a{
+	margin:20px;
+	padding:20px;
+	color:white;
+	text-decoration: none;
+}
+#a:hover{
+text-shadow:2px 2px 8px black, 0 0 25px lightblue,  0 0 5px darkblue;
+}
+#b{
+	margin:20px;
+	padding:20px;
+	color:white;
+	text-decoration: none;
+}
+#b:hover{
+text-shadow:2px 2px 3px black, 0 0 25px lightblue,  0 0 5px darkblue;
+}
+#c{
+	margin:20px;
+	padding:20px;
+	color:white;
+	text-decoration: none;
+}
+#c:hover{
+text-shadow:2px 2px 3px black, 0 0 25px lightblue,  0 0 5px darkblue;
+}
+#d{
+	margin:20px;
+	padding:20px;
+	color:white;
+    text-decoration: none;
+}
+#d:hover{
+text-shadow:2px 2px 3px black, 0 0 25px lightblue,  0 0 5px darkblue;
+
+}
+#e{
+	margin:20px;
+	padding:20px;
+	color:white;
+		text-decoration: none;
+}
+#e:hover{
+text-shadow:2px 2px 3px black, 0 0 25px lightblue,  0 0 5px darkblue;
+}
+.cobra {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 5px;
+	text-align:right;
+}
+#f{
+	margin:10px;
+	padding:10px;
+}
+
+#g{
+		margin:10px;
+	padding:10px;
+}
+
+#h{
+		margin:10px;
+	padding:10px;
+}
+
+#imgfb{
+	height:80px;
+    width:80px;	
+}
+#z{
+	text-align:left;
+}
+#imgfh{
+	height:40px;
+	width:300px;
+}
+
+
