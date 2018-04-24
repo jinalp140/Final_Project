@@ -2,41 +2,83 @@
 	margin: 0;
 	padding: 0;
 }
-body{
-	background-image:url(https://wallpaperscraft.com/image/burger_meat_vegetables_bread_roll_82904_1920x1080.jpg);
-	opacity:0.98;
-	background-repeat:no-repeat;
-	background-size:cover;
+
+.container {
+	background-image: url('bur.jpg');
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	overflow: hidden;
 }
 
 .weh{
+	display: block;
 	font-family:italic;
 	text-align:center;
-	padding:1px;
-	margin:30px;
+	padding:10px;
+	margin:30px auto;
+	width: 80%;
 	border: 0.2px solid;
 	font-size:1.5em;
 	font-weight:10px;
 	background-color:#cc5200;
 	color:white;
+	padding:40px;
 }
-.content {
-    position: fixed;
-    bottom: 0;
-    background-color:#cc5200;
+.beta{
+	height:400px;
+	width:400px;
+	margin-top: 100px;
+	margin-left: 30%;
+	display: inline-block;
+	margin-bottom: 155px;
+	padding:50px;
+}
+.primary-image {
+	height:300px;
+	width:300px;
+	opacity:0.9;
+
+}
+
+.delta{
+	height:400px;
+	width:400px;
+	margin-top: 100px;
+	display: inline-block;
+	margin-right: 5%;
+	margin-bottom: 155px;
+}
+
+.footer{ 
+    background:#cc5200 ;
     color: #f1f1f1;
-    width: 100%;
-    padding: 30px;
+    padding: 20px;
 	text-align:center;
+}
+.catering{
+	height:200px;
+	width:95%;
+	background-color:lightblue;
+	margin-top:300px;
 }
 #a{
 	margin:20px;
 	padding:20px;
 	color:white;
 	text-decoration: none;
+	  transition: transform .2s;
 }
 #a:hover{
 text-shadow:2px 2px 8px black, 0 0 25px lightblue,  0 0 5px darkblue;
+ -ms-transform: scale(2); /* IE 9 */
+    -webkit-transform: scale(2); /* Safari 3-8 */
+    transform: scale(2); 
+}
+#a:hover{
+	-ms-transform: scale(2); /* IE 9 */
+    -webkit-transform: scale(2); /* Safari 3-8 */
+    transform: scale(2); 
 }
 #b{
 	margin:20px;
@@ -81,5 +123,10 @@ text-shadow:2px 2px 3px black, 0 0 25px lightblue,  0 0 5px darkblue;
 
 ul#menu li {
     display:inline;
+}
+#can{
+	text-align:center;
+	font-size:1.5em;
+	color:white;
 
 }
