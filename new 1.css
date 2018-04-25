@@ -1,0 +1,140 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color:#ff8533;
+}
+#img1{
+	vertical-align:top;
+	opacity:0.3;
+}
+.weh{
+	display: block;
+	font-family:italic;
+	text-align:center;
+	padding:10px;
+	margin:30px auto;
+	width: 80%;
+	border: 0.2px solid;
+	font-size:1.5em;
+	font-weight:10px;
+	background-color:#cc5200;
+	color:white;
+	padding:40px;
+}
+.masdiv{position:absolute;
+    top:20%;
+	left:5%;
+	height:500px;
+	width:90%;
+	background-color: #ffe0cc;
+	
+}
+.div1{position:absolute;
+	height:400px;
+	width:300px;
+	margin-top:3%;
+	display:inline;
+	left:8%;
+	background-color:#cccccc;
+}
+.div2{position:absolute;
+	height:400px;
+	width:300px;
+	margin-top:3%;
+	display:inline;
+	left:36%;
+	background-color:#cccccc;
+}
+
+.div3{position:absolute;
+	height:400px;
+	width:300px;
+	margin-top:3%;
+	display:inline;
+	left:66%;
+	background-color:#cccccc;
+}
+#img2{
+	height:400px;
+	width:300px;
+}
+
+.footer{ 
+    background:#cc5200 ;
+    color: #f1f1f1;
+    padding: 20px;
+	text-align:center;
+	bottom:0;
+	right:0;
+	margin-bottom:0px;
+	position:fixed;
+	width:98%;
+}
+#a{
+	margin:20px;
+	padding:20px;
+	color:white;
+	text-decoration: none;
+	  transition: transform .2s;
+}
+#a:hover{
+text-shadow:2px 2px 8px black, 0 0 25px lightblue,  0 0 5px darkblue;
+ -ms-transform: scale(2); /* IE 9 */
+    -webkit-transform: scale(2); /* Safari 3-8 */
+    transform: scale(2); 
+}
+#a:hover{
+	-ms-transform: scale(2); /* IE 9 */
+    -webkit-transform: scale(2); /* Safari 3-8 */
+    transform: scale(2); 
+}
+#b{
+	margin:20px;
+	padding:20px;
+	color:white;
+	text-decoration: none;
+}
+#b:hover{
+text-shadow:2px 2px 3px black, 0 0 25px lightblue,  0 0 5px darkblue;
+}
+#c{
+	margin:20px;
+	padding:20px;
+	color:white;
+	text-decoration: none;
+}
+#c:hover{
+text-shadow:2px 2px 3px black, 0 0 25px lightblue,  0 0 5px darkblue;
+}
+#d{
+	margin:20px;
+	padding:20px;
+	color:white;
+    text-decoration: none;
+}
+#d:hover{
+text-shadow:2px 2px 3px black, 0 0 25px lightblue,  0 0 5px darkblue;
+
+}
+#e{
+	margin:20px;
+	padding:20px;
+	color:white;
+		text-decoration: none;
+}
+#e:hover{
+text-shadow:2px 2px 3px black, 0 0 25px lightblue,  0 0 5px darkblue;
+}
+#parafooter{
+	text-align:center;
+}
+
+ul#menu li {
+    display:inline;
+}
+
+
+
