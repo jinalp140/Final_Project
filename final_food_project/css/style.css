@@ -113,6 +113,29 @@ background: url('data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw0H
 	
 }
 
+.footer-div1{
+	background-color:black;
+	float:center;
+	height:80px;
+	width:50%;
+	display: inline-block;
+	padding-left:5%;
+	margin-right:5%;
+}	
+.social{
+	
+}
+.social img{
+	height:40px;
+	width:40px;
+	padding:3px;
+}
+.social img:hover{
+	border: 1px solid red;
+}
+
+
+
 .content {
     
     padding: 0px;
@@ -127,7 +150,7 @@ background: url('data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw0H
 	text-align:center;
 }
 
-.table
+.form
 {
 	width:100%;
 	height: auto;
