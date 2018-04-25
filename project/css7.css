@@ -1,0 +1,106 @@
+body{
+	background-color:#ffe6cc;
+}
+.sidebar{
+	position:absolute;
+    top:0;
+    background: rgba(0, 0, 0, 0.5);
+   width:100%;
+    padding: 40px;
+}
+nav{
+	font-size:1.5em;
+	text-align:center;
+	cursor:pointer;
+}
+#z{
+	float:left;
+
+}
+#a{
+	margin:20px;
+	padding:20px;
+	color:white;
+	text-decoration: none;
+}
+#a:hover{
+text-shadow:2px 2px 8px black, 0 0 25px lightblue,  0 0 5px darkblue;
+}
+#b{
+	margin:20px;
+	padding:20px;
+	color:white;
+	text-decoration: none;
+}
+#b:hover{
+text-shadow:2px 2px 3px black, 0 0 25px lightblue,  0 0 5px darkblue;
+}
+#c{
+	margin:20px;
+	padding:20px;
+	color:white;
+	text-decoration: none;
+}
+#c:hover{
+text-shadow:2px 2px 3px black, 0 0 25px lightblue,  0 0 5px darkblue;
+}
+#d{
+	margin:20px;
+	padding:20px;
+	color:white;
+    text-decoration: none;
+}
+#d:hover{
+text-shadow:2px 2px 3px black, 0 0 25px lightblue,  0 0 5px darkblue;
+
+}
+#e{
+	margin:20px;
+	padding:20px;
+	color:white;
+text-decoration: none;
+}
+#e:hover{
+text-shadow:2px 2px 3px black, 0 0 25px lightblue,  0 0 5px darkblue;
+}
+#men{
+	margin-top:90px;
+}
+.cobra {
+    bottom: 0;
+    width: 100%;
+	text-align:right;
+	right:0;
+	background: rgba(0, 0, 0, 0.5);
+    padding:1px;
+}
+}
+#f{
+	margin:10px;
+	padding:10px;
+}
+
+#g{
+		margin:10px;
+	padding:10px;
+}
+
+#h{
+		margin:10px;
+	padding:10px;
+}
+
+#imgfb{
+	height:40px;
+    width:40px;	
+}
+
+#imgmn{
+	height:250px;
+	width:350px;
+	float:left;
+}
+#imgmn2{
+	height:250px;
+	width:350px;
+	float:right;
