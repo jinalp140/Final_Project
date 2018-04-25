@@ -4,16 +4,16 @@ var user_name=document.myform.user_name.value;
 var password=document.myform.password.value;  
   
   if (user_name==null || user_name==""){  
-  alert("Name can't be blank");  
+  alert("Enter User Name");  
   return false;  
-}else if(password.length<6){  
-  alert("Password must be at least 6 characters long.");  
+}else if(password.length<8){  
+  alert("Password must be at least 8 characters.");  
   
   return false;  
   }  
   else 
   { 
-alert("Login Sucessfully");
+alert("Now you are logged in");
   }
   
 }  
@@ -89,32 +89,32 @@ var contact=document.myform.contact.value;
   
   
   if (first_name==null || first_name==""){  
-  alert("Name can't be blank");  
+  alert("Enter First name");  
   return false;  
 }
 
    if (last_name==null || last_name==""){  
-  alert("Name can't be blank");  
+  alert("Enter last name");  
   return false;  
    }
 
    if (email==null || email==""){  
-  alert("Name can't be blank");  
+  alert("enter email");  
   return false;  
    
    }
    
    
    if (email.indexOf('@')<=0){  
-  alert("invalid email");  
+  alert("valid email id");  
   return false;  
    
    }
    
    
    
-   if (password.length<6){  
-  alert("Password must be at least 6 characters and enter same password.");  
+   if (password.length<8){  
+  alert("Password must be at least 8 characters.");  
   
   return flase;  
    
@@ -122,14 +122,14 @@ var contact=document.myform.contact.value;
    
    if(password!=rpassword)
    {
-	   alert("password not matching.");  
+	   alert("password are not same.");  
   
   return flase; 
    }
    
    if(rpassword == "")
    {
-    alert("enter confirm password");  
+    alert("enter  re-password");  
     return false;
    }
    
@@ -142,7 +142,7 @@ var contact=document.myform.contact.value;
 
   else 
   { 
-alert("Sign Up");
+alert("Hey you are new customer");
   }
   
 }  

@@ -1,0 +1,159 @@
+.text1
+{
+   font-family: Forte; 
+	color: maroon; 
+	font-size: 40px;
+	text-align: center;
+	margin:center;
+   
+}
+.text
+{
+    font-family: Comic Sans MS; 
+    color:blue;
+	font-size: x-large;
+	text-align: center;
+	font-weight:bold;
+    line-height:25px;
+    width:auto;
+}
+.txtbx
+{
+	font-family:Arial;
+    font-size:16px;
+    color:Black;
+    font-weight:bold;
+    width:300px;
+    border-color:Black;
+    border-style:solid;
+    border-width:1px;
+	height:30px;
+	text-align: center;
+}
+
+.button
+{
+    
+	color:white;
+	background-color:#87042A;
+	width:150px;
+	height:50px;
+    font-weight:bold;
+	font-size:X-large;
+	font-family: Comic Sans MS;
+	
+}
+
+
+
+
+.img
+{
+background: url('data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw0HBwcHBwoNBwcHBw0HBwcHDQ8IDQcNFREWFiARFR8YHCggGCYlJxUfITEhJSkrLi4uFx8zODMsNygtLisBCgoKBQUFDgUFDisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIAI8BYAMBIgACEQEDEQH/xAAYAAEBAQEBAAAAAAAAAAAAAAAABAMBBv/EABYQAQEBAAAAAAAAAAAAAAAAAAASE//EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDxskt5JBhJLeSQYSS3kkGEkt5JBhJLeSQYSS3kkGEkt5JBhJLeSQYSS3kkGEkt5JBhJLeSQYSS3kkGEkt5JBhJLeSQYSS3kkGEkt5JBhJLeSQYSS3kkGEkt5JBhJLeSQYSS3kkGEkt5JBvBCiCATwQoggE8EKIIBPBCiCATwQoggE8EKIIBPBCiCATwQoggE8EKIIBPBCiCATwQoggE8EKIIBPBCiCATwQoggE8EKIIBPBCiCATwQoggE8EKIIBPBCiCATwQoggE8EKIIBPBCiCAUwQpzMwTQQpzMwTQQpzMwTQQpzIBNBCmDME0EKczME0EKYMwTQQpzIBNBCmCATQQpzMwTQQpgzBNBCmDME0EKczME0EKczME0EKYMwTQQpzMwTQQpzMwTQQpzIBNBCmCATQQpggE0EKYMwTQQpzMwVZmavMzBLm5mrzMwS5marMzBLmZqszMEmZmrzMwS5uZq8zMEmZmrzMwS5marMzBLmZqszMEubmavMzBJm7mqzMwS5marMzBLm5mrzMwS5marMzBLmZqszMEubmavMzBJm7mqzMwS5marMzBJm7mqzMwS5uZq8zMEuZmqzMwSZmavMzBXmZqszMEuZmqzdzBJmZqszMEuZmqzMwS5marMzBLmZqszMEuZmrzczBLmZqs3cwSZmarMzBLmZqszMEuZmqzMwS5marMzBLmZqszMEuZmqzdzBJmZqszMEuZmqzMwS5marMzBLmZqszMEuZmqzMwS5marMzBLmZqszMEuZmqzMwV5mavMzBJmZq8zMEmZmrzMwSZmavMzBJmZq8zMEmZmrzMwSZmavMzBJmZq8zMEmZmrzMwSZmavMzBJmZq8zMEmZmrzMwSZmavMzBJmZq8zMEmZmrzMwSZmavMzBJmZq8zMEmZmrzMwSZmavMzBJmZq8zMEmZmrzMwSZmavMzBVmZqoMwS5maqCAS5maqCAS5maqDMEuZmqggEuZmqggEuZmqggEuZmqgzBLmZqoIBLmZqsyAS5marMgEuZmqgzBLmZqoIBLmZqoMwS5marMgEuZmqggEuZmqgzBLmZqsyAS5maqCAS5marMgEuZmqzIBLmZqoIBTBCmCATQQpggE0EKYIBNBCmCATQQpggE0EKYIBNBCmCATQQpggE0EKYIBNBCmCATQQpggE0EKYIBNBCmCATQQpggE0EKYIBNBCmCATQQpggE0EKYIBNBCmCATQQpggE0EKYIBNBCmCAbwQ3kkGEEN5JBhBDeSQYQQ3kkGEEN5JBhBDeSQYQQ3kkGEEN5JBhBDeSQYQQ3kkGEEN5JBhBDeSQYQQ3kkGEEN5JBhBDeSQYQQ3kkGEEN5JBhBDeSQYQQ3kkGEEN5JBhBDeSQYQQ3kkH/2Q==') no-repeat center center fixed;-webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
+
+
+
+
+
+
+
+.top
+{
+	float: Left;
+    display: block;
+    color: green;
+    text-align: center;
+	font-size:35px;
+    font-family: Forte; 
+    
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: black;
+	width: 100%;
+}
+
+
+.topnav a {
+    float: right;
+    display: block;
+    color: pink;
+    text-align: center;
+	font-size:18px;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+    background-color:blue ;
+    color: red;
+}
+
+.footer {
+    background-color: black;
+    padding: 10px;
+	left: 0;
+    bottom: 0;
+    width: 100%;
+    font-size:20px;
+    color: yellow;
+    text-align: center;
+	 display: block;
+}
+
+.footer a {
+        color: red;
+    text-align: center;
+	
+}
+
+.footer-div1{
+	background-color:black;
+	float:center;
+	height:80px;
+	width:50%;
+	display: inline-block;
+	padding-left:5%;
+	margin-right:5%;
+}	
+.social{
+	
+}
+.social img{
+	height:40px;
+	width:40px;
+	padding:3px;
+}
+.social img:hover{
+	border: 1px solid red;
+}
+
+
+
+.content {
+    
+    padding: 0px;
+	width:100%;
+    height: auto;
+}
+
+.center
+{
+	width:100%;
+	height: auto;
+	text-align:center;
+}
+
+.form
+{
+	width:100%;
+	height: auto;
+	text-align:center;
+}
+
