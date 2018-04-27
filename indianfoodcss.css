@@ -121,7 +121,8 @@ h1#daily{
 	color:white;
 	font-size:2em;
 	position:absolute;
-	margin-top:450px;
+	margin-top:500px;
+	margin-left:45%;
 }
 .cobra{
 	bottom:0;
